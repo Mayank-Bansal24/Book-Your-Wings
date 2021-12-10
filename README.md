@@ -1,4 +1,4 @@
-# Book-Your-Wings
+# Book-Your-Wings(Group Project)
 This a basic flight booking system based on PHP,MYSQL,HTML and CSS 
 
 Built a flight Booking System that takes the required details and books a ticket in a fake database.
